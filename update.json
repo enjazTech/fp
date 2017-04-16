@@ -3,6 +3,8 @@
   "version":"0.3",
   "url":"https://raw.githubusercontent.com/Qicard/fp/master/Inst.msi",
   "changelog":{
+    "0.4":["Fix controller name",
+           "Fix timer interval"],
     "0.3":["Add changelog controller",
            "Add version controller",
            "Add update controller"],
