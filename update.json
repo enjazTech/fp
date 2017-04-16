@@ -1,8 +1,11 @@
 {
   "app":"WinSvcFingerprint",
-  "version":"0.1",
+  "version":"0.2",
   "url":"https://raw.githubusercontent.com/Qicard/fp/master/inst.msi",
   "changelog":{
+    "0.2":[
+      "Add update option"
+      ],
     "0.1":[
     "Initial release"
     ]
