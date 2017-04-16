@@ -1,0 +1,10 @@
+{
+  "app":"WinSvcFingerprint",
+  "version":"0.1",
+  "url":"http://some-url.com/some-link",
+  "changelog":{
+    "0.1":[
+    "Initial release"
+    ]
+  }
+}
