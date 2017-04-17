@@ -1,24 +1,17 @@
 {
-  "app":"WinSvcFingerprint",
-  "version":"0.9",
-  "url":"https://raw.githubusercontent.com/Qicard/fp/master/Inst.msi",
-  "changelog":{
-    "0.9":["Use a new approach in updating"],
-    "0.8":["Fix changelog casting"],
-    "0.7":["Fix changelog display"],
-    "0.6":["Add log to windows events"],
-    "0.5":["Inc version for test only"
-          ],
-    "0.4":["Fix controller name",
-           "Fix timer interval"],
-    "0.3":["Add changelog controller",
-           "Add version controller",
-           "Add update controller"],
-    "0.2":[
-      "Add update option"
-      ],
-    "0.1":[
-    "Initial release"
-    ]
-  }
+	"app": "WinSvcFingerprint",
+	"version": "1.0",
+	"url": "https://raw.githubusercontent.com/Qicard/fp/master/Inst.msi",
+	"changelog": {
+		"1.0": ["First public release"],
+		"0.2": [
+			"Add update option",
+			"Add version option",
+			"Add changelog option",
+			"Add logs to windows log"
+		],
+		"0.1": [
+			"Initial release"
+		]
+	}
 }
