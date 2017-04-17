@@ -1,8 +1,10 @@
 {
   "app":"WinSvcFingerprint",
-  "version":"0.5",
+  "version":"0.7",
   "url":"https://raw.githubusercontent.com/Qicard/fp/master/Inst.msi",
   "changelog":{
+    "0.7":["Fix changelog display"],
+    "0.6":["Add log to windows events"],
     "0.5":["Inc version for test only"
           ],
     "0.4":["Fix controller name",
