@@ -1,6 +1,6 @@
 {
   "app":"WinSvcFingerprint",
-  "version":"0.7",
+  "version":"0.8",
   "url":"https://raw.githubusercontent.com/Qicard/fp/master/Inst.msi",
   "changelog":{
     "0.7":["Fix changelog display"],
