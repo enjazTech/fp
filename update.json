@@ -1,8 +1,9 @@
 {
 	"app": "WinSvcFingerprint",
-	"version": "1.1",
+	"version": "1.2",
 	"url": "https://raw.githubusercontent.com/Qicard/fp/master/Inst.msi",
 	"changelog": {
+		"1.2": ["Update links"],
 		"1.1": ["Fix .net 4.6 required"],
 		"1.0": ["First public release"],
 		"0.2": [
