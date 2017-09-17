@@ -1,6 +1,6 @@
 {
 	"app": "WinSvcFingerprint",
-	"version": "2.0",
+	"version": "1.2",
 	"url": "https://raw.githubusercontent.com/Qicard/fp/master/Inst.msi",
 	"changelog": {
 		"2.0":[ "Add https option", "make a service non stopable" ],
